@@ -1,0 +1,20 @@
+# Proteus temporary / backup files
+*.pdsbak
+*.bak
+*.tmp
+*.log
+*.workspace
+Backup Of *
+
+# Proteus generated files
+*.dsn.~*
+*.lyt.~*
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Editor temporary files
+*~
+*.swp
+*.swo
